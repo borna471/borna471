@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, its Borna! 👋
+
+- 🔭 I’m currently working on building a Jarvis-esque voice assistant with GPT-3
+- 🌱 I’m currently learning JavaScript and C
+- 👯 I’m looking to collaborate on any cool projects!
+- 💬 Ask me about startup development!
+
+
 
 <!--
 **borna471/borna471** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
