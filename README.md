@@ -1,9 +1,5 @@
 ### Hi there, its Borna! 👋
 
-- I'm currently studying Business and Computer Science at UBC
-- Background in startup development, MVP design, and go-to-market strategies
-- TEST ERROR
-
 - 🔭 I’m currently working on building a Jarvis-esque voice assistant with GPT-3
 - 🌱 I’m currently learning JavaScript and C
 - 👯 I’m looking to collaborate on any cool projects!
