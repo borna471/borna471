@@ -1,8 +1,8 @@
 ### Hi there, its Borna! 👋
 
-- 🔭 I’m currently working on building a Jarvis-esque voice assistant with GPT-3
-- 🌱 I’m currently learning JavaScript and C
-- 👯 I’m looking to collaborate on any cool projects!
+- 🔭 Currently building a Jarvis-esque voice assistant with GPT-3
+- 🌱 Learning JavaScript, C, and React
+- 👯 Looking to collaborate/ideate on any cool projects/ideas
 - 💬 Ask me about anything startups!
 
 
