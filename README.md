@@ -2,7 +2,7 @@
 
 - 🔭 Currently building a Jarvis-esque voice assistant with GPT-3
 - 🌱 Learning JavaScript, C, and React
-- 👯 Looking to collaborate/ideate on any cool projects/ideas
+- 👯 Looking to collaborate/ideate on any cool project ideas
 - 💬 Ask me about anything startups!
 
 
