@@ -1,7 +1,7 @@
 ### Hi there, its Borna! 👋
 
-- 🔭 Currently building a Jarvis-esque voice assistant with GPT-3
-- 🌱 Learning JavaScript, C, and React
+- 🔭 Currently building a Jarvis-esque voice assistant with GPT-3, and the Tabby Pals mobile app! 
+- 🌱 Learning JavaScript, React, C, and Swift
 - 👯 Looking to collaborate/ideate on any cool project ideas
 - 💬 Ask me about anything startups!
 
