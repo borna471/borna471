@@ -1,9 +1,9 @@
 ### Hi there, its Borna! 👋
 
 - 🔭 Currently building a Jarvis-esque voice assistant with GPT-3, and the Tabby Pals mobile app! 
-- 🌱 Learning JavaScript, React, C, and Swift
-- 👯 Looking to collaborate/ideate on any cool project ideas
-- 💬 Ask me about anything startups!
+- 🌱 Learning JavaScript, React, and Swift
+
+- 📫 Contact me by Email ([borna471@gmail.com](borna471@gmail.com)) or [LinkedIn]([url](https://www.linkedin.com/in/borna-shani/))
 
 
 
